@@ -8,6 +8,7 @@ To Make Assignments clean and finest quality of code we will follow below guidel
 1. Each assignment will have instructions.md file which will tell you exactly what to do, if the instructions are not clear. we will talk and make it clear before you start the assignment, if the instructions.md is not provided you should get instructions from whatsApp or email, if you get instructions from whatsApp then add a file to your folder in your designated repository. Instructions are top most important than anything else, client will pay only if the instructions are met.
 2. Every assignment should have readme.md
    1. Use the [template](https://github.com/aksharnow/assignment-instructions/blob/master/readme-template.md) and fill the details related to the assignment
+   2. Please note that this template is frquently updated, use the up to date template available at the time of assignment.
 3. if you are using boilerplate code remove all the code that is not related to the assignment
    1. if you are using create-react-app, remove the react logo, styles related to this logo, manifest.json file
    2. rename the title(browser' tab text) of the assignment in index.html to the title of the assignment
