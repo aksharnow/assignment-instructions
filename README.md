@@ -7,7 +7,7 @@ To Make Assignments clean and finest quality of code we will follow below guidel
 
 1. Each assignment will have instructions.md file which will tell you exactly what to do, if the instructions are not clear. we will talk and make it clear before you start the assignment, if the instructions.md is not provided you should get instructions from whatsApp or email, if you get instructions from whatsApp then add a file to your folder in your designated repository. Instructions are top most important than anything else, client will pay only if the instructions are met.
 2. Every assignment should have readme.md
-   1. Use the [template](https://github.com/symmetriccurve/assignment-solutions/blob/master/readme%20template.md) and fill the details related to the assignment
+   1. Use the [template](https://github.com/aksharnow/assignment-instructions/blob/master/readme-template.md) and fill the details related to the assignment
 3. if you are using boilerplate code remove all the code that is not related to the assignment
    1. if you are using create-react-app, remove the react logo, styles related to this logo, manifest.json file
    2. rename the title(browser' tab text) of the assignment in index.html to the title of the assignment
@@ -74,7 +74,7 @@ No Client to deliver :D
 1. I will create a github private repository and add you as collaborator, you should have full access to this repository.
 2. Commit as often as possible, no need for beautiful commit messages, you can write the commit message which is good for you.
 3. Do not commit node_modules, npm.error.logs and yarn.error files
-4. Update the readme.md with the following [template](https://github.com/symmetriccurve/assignment-solutions/blob/master/readme%20template.md).
+4. Update the readme.md with the following [template](https://github.com/aksharnow/assignment-instructions/blob/master/readme-template.md).
 5. When you receive a new assignment create a folder in the repo and put all the files related to that assignment in the same folder
 6. Remove all the packages that are not related to the project from package.json
 7. Always have latest version packages in the package.json - No exceptions on this please
