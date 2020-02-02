@@ -1,6 +1,6 @@
 Hello Team,
 
-I am frontend trainer and  I get a lot of assignments on daily basis to complete, I am kinda not finding time and looking to build a team who can help to deliver assignments on time, your payment will be taken care of immediately once I like  the assignment(Some times I will work along with you to complete them on time and you will be still paid for it), you can check my portfolio and my projects here http://www.belvikram.com
+I am frontend trainer and  I get a lot of assignments on daily basis to complete, I am kinda not finding time and looking to build a team who can help to deliver assignments on time, your payment will be taken care of immediately after the completion of assignment(Some times I will work along with you to complete them on time and you will be still paid for it), you can check my portfolio and my projects here http://www.belvikram.com
 
 I will be paying in INR , Approx 1000 to 2000 per assignment depending amount of work needed.
 
