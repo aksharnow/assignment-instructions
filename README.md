@@ -1,7 +1,15 @@
 Hello Team,
 
+I am frontend trainer and  I get a lot of assignments on daily basis to complete, I am kinda not finding time and looking to build a team who can help to deliver assignments on time, your payment will be taken care of immediately once I like  the assignment(Some times I will work along with you to complete them on time and you will be still paid for it), you can check my portfolio and my projects here:
+
+http://www.belvikram.com/portfolio-2.0/#/
+
+I will be paying in INR , Approx 1000 to 2000 per assignment depending amount of work needed.
+
 To Make Assignments clean and finest quality of code we will follow below guidelines 
 
+
+To check the nature of works, you can take a look at sample assignments in this repo. All thr assignments come with 24hour deadline from the time of  commitment.
 
 ## Guidelines
 
