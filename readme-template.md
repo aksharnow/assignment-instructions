@@ -13,7 +13,10 @@ Assumptions:
 ## Frameworks: 
 
 
-## Challenges 
+## Challenges:
 
 
-## Developer Notes 
+## Developer Notes:
+
+
+## How to start the application: 
