@@ -9,7 +9,7 @@ To Make Assignments clean and finest quality of code we will follow below guidel
 
 To check the nature of works, you can take a look at sample assignments in this repo. All thr assignments come with 24hour deadline from the time of  commitment.
 
-## Guidelines
+## General Guidelines
 
 1. Each assignment will have instructions.md file which will tell you exactly what to do, if the instructions are not clear. we will talk and make it clear before you start the assignment, if the instructions.md is not provided you should get instructions from whatsApp or email, if you get instructions from whatsApp then add a file to your folder in your designated repository. Instructions are top most important than anything else, client will pay only if the instructions are met.
 2. Every assignment should have readme.md
