@@ -46,8 +46,7 @@ To check the nature of works, you can take a look at sample assignments in this 
 7. Making following assumptions on every assignment if until said
    1. Use API provided to get the data, if API is not provided and only mock data is provided, use services like www.myjson.com and get a fake API to complete the assignment.
    2. 50 % of the assignment will have designs, you need to match your assignments exactly to the designs provided but another 50% we do not get designs so we take liberty to do design how ever we like but it should look good, in that case use light colors than dark colors.
-8. Always use ES6 syntax, but if the assignment says to use ES5 go with ES5.
-
+8. Always use ES6 syntax, but if the assignment says to use ES5 go with ES5.o
 
 ## Payments
 1. As assignments are important to client payments are that important to our partners/employees, you will be paid for every assignment.
@@ -85,6 +84,7 @@ No Client to deliver :D
 5. When you receive a new assignment create a folder in the repo and put all the files related to that assignment in the same folder
 6. Remove all the packages that are not related to the project from package.json
 7. Always have latest version packages in the package.json - No exceptions on this please
+8. Add a shot video of the all the functionalities of the application
 
 
 ## Frequently Asked Questions
