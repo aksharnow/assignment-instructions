@@ -75,6 +75,17 @@ No Client to deliver :D
 ## Boiler plates
 1. use [react-create-app](https://github.com/facebook/create-react-app)
 
+## Code Standards 
+
+- Use single quotes on imports, 
+- use double quotes on classNames and attributes
+- Do not use !important on CSS
+- Prefer a npm module as a depencency over adding script tag in html
+- Add code comments where ever neccesary, not too many though.
+- If a svg is used, put it in seperate file.
+- No magic numbers, use constants and have constants file separetly
+
+
 
 ## How to deliver
 1. I will create a github private repository and add you as collaborator, you should have full access to this repository.
