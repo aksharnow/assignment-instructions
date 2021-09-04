@@ -1,4 +1,4 @@
-Hello Team,
+Hello Jitendra,
 
 I am a Frontend Trainer and I get a lot of assignments on daily basis to complete, I am kinda not finding time and looking to build a team who can help to deliver assignments on time, your payment will be taken care of immediately after the completion of assignment(Some times I will work along with you to complete them on time and you will be still paid for it), you can check my portfolio and my projects here http://www.belvikram.com
 
@@ -7,7 +7,7 @@ I will be paying in INR , Approx 1000 to 2000 per assignment depending amount of
 To Make Assignments clean and finest quality of code we will follow below guidelines 
 
 
-To check the nature of works, you can take a look at sample assignments in this repo. All thr assignments come with 24hour deadline from the time of  commitment.
+All the assignments come with 24hour deadline from the time of commitment, if there are additonal information needed, please let me know as soon as possible.
 
 ## General Guidelines
 
@@ -27,21 +27,26 @@ To check the nature of works, you can take a look at sample assignments in this 
 
 5. Please get yourself familiar with following technologies/libraries we will not use all of them but we will have lot of assignments have one or other combination of below
    1. javascript
-   2. css
-   3. html
-   4. JSX
-   5. npm
-   6. React - any version
-   7. Redux
-   8. Reduc thunk and saga
-   9. Mobx
-   10. scss
-   11. webpack
-   12. Server side rendering
-   13. block element modifier styles
-   14. little knowledge on nodejs
-   15. ES6 syntax
-6. Most importantly, ask all your question when you are assigned a assignment, since we are different time zones(India - USA - brazil - argentina  and mexico)
+   2. typescript
+   3. css
+   4. html
+   5. JSX
+   6. npm
+   7. webpack
+   8. babel
+   9. React(class based and functional components)
+   10. React hooks
+   11. Redux
+   12. Redux-thunk and redux-saga
+   13. Mobx
+   14. scss
+   15. webpack
+   16. Server side rendering
+   17. block element modifier styles
+   18. little knowledge on nodejs
+   19. ES6 syntax
+   20. Nextjs
+6. Most importantly, ask all your question when you are assigned an assignment, since we are different time zones(India - USA - Brazil - Argentina  and Mexico)
  it will be waste of time to wait if you have questions in the middle of what you do. 
 7. Making following assumptions on every assignment if until said
    1. Use API provided to get the data, if API is not provided and only mock data is provided, use services like www.myjson.com and get a fake API to complete the assignment.
@@ -49,9 +54,9 @@ To check the nature of works, you can take a look at sample assignments in this 
 8. Always use ES6 syntax, but if the assignment says to use ES5 go with ES5.o
 
 ## Payments
-1. As assignments are important to client, payments are that important to our partners/employees, you will be paid for every assignment.
+1. As assignments are important to client payments are that important to our partners/employees, you will be paid for every assignment.
 
-I will make you the payment directly to your bank once the assignment is complete.
+A WhatsApp group is created with you,me and person from accounts team, as soon as I am happy with the assignment you should receive payment immediately.
 
 
 ## Deadlines
@@ -80,10 +85,10 @@ No Client to deliver :D
 - Use single quotes on imports, 
 - use double quotes on classNames and attributes
 - Do not use !important on CSS
+- Prefer a npm module as a depencency over adding script tag in html
 - Add code comments where ever neccesary, not too many though.
 - If a svg is used, put it in seperate file.
 - No magic numbers, use constants and have constants file separetly
-- Remove all unused logic, assets, comments, files if you used a react-boiler-plate
 
 
 
