@@ -80,7 +80,7 @@ No Client to deliver :D
 ## Boiler plates
 1. use [react-create-app](https://github.com/facebook/create-react-app)
 
-## Code Standards 
+## Coding conventions 
 
 - Use single quotes on imports, 
 - use double quotes on classNames and attributes
@@ -89,6 +89,17 @@ No Client to deliver :D
 - Add code comments where ever neccesary, not too many though.
 - If a svg is used, put it in seperate file.
 - No magic numbers, use constants and have constants file separetly
+- Always prefix the boolean values with 'is' for example: isLoading, isError, isValid.
+- Always prefix 'on' for event handlers for example: onHandleClick, onNewItemAdd.
+- Always stick with the same folder structure procided by the boiler plate if not use the following
+
+
+├── 📂 components     
+│   ├── MyComponent.jsx          
+│   └── styles.js          
+├── MyContainer.jsx      
+├── index.js               
+└── utilities.js       
 
 
 
