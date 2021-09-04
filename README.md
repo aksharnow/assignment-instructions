@@ -49,9 +49,9 @@ To check the nature of works, you can take a look at sample assignments in this 
 8. Always use ES6 syntax, but if the assignment says to use ES5 go with ES5.o
 
 ## Payments
-1. As assignments are important to client payments are that important to our partners/employees, you will be paid for every assignment.
+1. As assignments are important to client, payments are that important to our partners/employees, you will be paid for every assignment.
 
-A WhatsApp group is created with you,me and person from accounts team, as soon as I am happy with the assignment you should receive payment immediately.
+I will make you the payment directly to your bank once the assignment is complete.
 
 
 ## Deadlines
@@ -80,10 +80,10 @@ No Client to deliver :D
 - Use single quotes on imports, 
 - use double quotes on classNames and attributes
 - Do not use !important on CSS
-- Prefer a npm module as a depencency over adding script tag in html
 - Add code comments where ever neccesary, not too many though.
 - If a svg is used, put it in seperate file.
 - No magic numbers, use constants and have constants file separetly
+- Remove all unused logic, assets, comments, files if you used a react-boiler-plate
 
 
 
